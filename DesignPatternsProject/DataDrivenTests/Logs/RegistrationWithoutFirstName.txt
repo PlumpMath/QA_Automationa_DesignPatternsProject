@@ -1,0 +1,1 @@
+SoftUniDesignPatternRegistration.TestClass.RegistrationWithoutFirstName     NUnit.Framework.TestContext
